@@ -21,12 +21,12 @@
 #include <dt-bindings/zmk/rgb.h>
 
 /* Automatically generated layer name #define */
-#define LAYER_Engrammer 0
-#define LAYER_Engram 1
-#define LAYER_Dvorak 2
-#define LAYER_ColemakDHm 3
-#define LAYER_Colemak 4
-#define LAYER_QWERTY 5
+#define LAYER_QWERTY 0
+#define LAYER_Engrammer 1
+#define LAYER_Engram 2
+#define LAYER_Dvorak 3
+#define LAYER_ColemakDHm 4
+#define LAYER_Colemak 5
 #define LAYER_Norman 6
 #define LAYER_Workman 7
 #define LAYER_Halmak 8
@@ -355,8 +355,8 @@
 // - https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts
 //
 #ifndef OPERATING_SYSTEM
-#define OPERATING_SYSTEM 'L' // linux
-//#define OPERATING_SYSTEM 'M' // macos
+//#define OPERATING_SYSTEM 'L' // linux
+#define OPERATING_SYSTEM 'M' // macos
 //#define OPERATING_SYSTEM 'W' // windows
 #endif
 #if OPERATING_SYSTEM == 'M'
