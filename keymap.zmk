@@ -4942,7 +4942,7 @@ macros {
         ;
     };
 
-    la_switch_mouse: switch_layer_apps {
+    la_switch_apps: switch_layer_apps {
       label = "switch_layer_apps";
       compatible = "zmk,behavior-macro-one-param";
       #binding-cells = <1>;
