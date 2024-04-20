@@ -17082,7 +17082,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&kp LS(LA(LC(LG(BLSH))))",
+            "value": "&kp LS(LA(LC(LG(BSLH))))",
             "params": []
           }
         ]
