@@ -3,7 +3,7 @@
   "uuid": "",
   "date": 1713553491,
   "creator": "",
-  "parent_uuid": "f47f8c64-6232-433c-a7f7-c9ee2953701d",
+  "parent_uuid": "d0baa8d1-2d3c-4c90-8bc2-5ce83e766581",
   "firmware_api_version": "1",
   "locale": "en-US",
   "title": "Glorious Engrammer v36 - BTT - A",
@@ -535,7 +535,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&thumb LAYER_Function ESC",
+            "value": "&thumb_function LAYER_Function ESC",
             "params": []
           }
         ]
@@ -575,7 +575,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&thumb LAYER_System ENTER",
+            "value": "&thumb_system LAYER_System ENTER",
             "params": []
           }
         ]
@@ -669,7 +669,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&thumb LAYER_Emoji END",
+            "value": "&thumb_emoji LAYER_Emoji END",
             "params": []
           }
         ]
@@ -678,7 +678,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&thumb LAYER_Cursor BACKSPACE",
+            "value": "&thumb_cursor LAYER_Cursor BACKSPACE",
             "params": []
           }
         ]
@@ -687,7 +687,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&thumb LAYER_Number DELETE",
+            "value": "&thumb_number LAYER_Number DELETE",
             "params": []
           }
         ]
@@ -696,7 +696,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&thumb_lower_shift LAYER_Lower LSFT",
+            "value": "&thumb_lower LAYER_Lower LSFT",
             "params": []
           }
         ]
@@ -705,7 +705,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&thumb_lower_shift LAYER_Lower LSFT",
+            "value": "&thumb_lower LAYER_Lower LSFT",
             "params": []
           }
         ]
@@ -723,7 +723,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&space LAYER_Symbol SPACE",
+            "value": "&thumb_symbol LAYER_Symbol SPACE",
             "params": []
           }
         ]
@@ -17082,7 +17082,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&kp LS(LA(LC(LG(BSLH))))",
+            "value": "&kp LS(LA(LC(LG(BLSH))))",
             "params": []
           }
         ]
