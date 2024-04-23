@@ -298,10 +298,10 @@
         ]
       },
       {
-        "value": "&kp",
+        "value": "Custom",
         "params": [
           {
-            "value": "R",
+            "value": "&LeftPinky (R, LAYER_QWERTY)",
             "params": []
           }
         ]
@@ -325,10 +325,10 @@
         ]
       },
       {
-        "value": "&kp",
+        "value": "Custom",
         "params": [
           {
-            "value": "U",
+            "value": "&RightPinky (U, LAYER_QWERTY)",
             "params": []
           }
         ]
