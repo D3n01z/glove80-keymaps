@@ -3,7 +3,7 @@
   "uuid": "",
   "date": 1713772058,
   "creator": "",
-  "parent_uuid": "f21cafd9-b6fe-4db7-ba2a-bb2ab3833adb",
+  "parent_uuid": "fbbb73ee-61b2-4e56-b407-32b37d8192d2",
   "firmware_api_version": "1",
   "locale": "en-US",
   "title": "Glorious Engrammer v36 - D",
@@ -13887,12 +13887,22 @@
         "params": []
       },
       {
-        "value": "&none",
-        "params": []
+        "value": "Custom",
+        "params": [
+          {
+            "value": "&kp LS(LG(4))",
+            "params": []
+          }
+        ]
       },
       {
-        "value": "&none",
-        "params": []
+        "value": "Custom",
+        "params": [
+          {
+            "value": "&kp LS(LC(LG(4)))",
+            "params": []
+          }
+        ]
       },
       {
         "value": "&none",
